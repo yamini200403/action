@@ -6,8 +6,8 @@ jobs:
    runs-on: ubuntu-latest
 
    steps:
-   - name: print backend
-     run: echo"backend"
+   - name: Print hello world
+     run: echo "hello world"
  
  
 
